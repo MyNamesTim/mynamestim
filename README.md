@@ -4,7 +4,7 @@
 Welcome to my GitHub! I love building games in Godot, creating 3D art in Blender, and exploring the world of programming.
 
 ## 🧰 Skills & Tools
-- **Game Development:** Godot
+- **Game Development:** Godot, learning Unity
 - **3D Modeling:** Blender
 - **Programming:** Java (proficient), Python & C++ (currently learning)
 - **Design:** Decent eye for design and UI/UX
