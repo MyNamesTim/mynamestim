@@ -1,4 +1,4 @@
-# Hi, I'm Tim! 👋
+# Hi, I'm Tim
 
 🎮 **Student | Aspiring Game Developer & 3D Artist**  
 Welcome to my GitHub! I love building games in Godot, creating 3D art in Blender, and exploring the world of programming.
