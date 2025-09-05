@@ -16,5 +16,3 @@ I'm passionate about making games and bringing ideas to life—whether it's thro
 - **Portfolio:** [mynamestim.tech](https://mynamestim.tech)
 
 ---
-
-_Thanks for stopping by! Feel free to connect, collaborate, or just say hi!_
