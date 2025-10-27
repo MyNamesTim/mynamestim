@@ -1,7 +1,7 @@
 # Hi, I'm Tim
 
-🎮 **Student | Aspiring Game Developer & 3D Artist**  
-Welcome to my GitHub! I love building games in Godot, creating 3D art in Blender, and exploring the world of programming.
+🏎️ **Student | Aspiring CAD Designer & Engineering Student**  
+Welcome to my GitHub! I love learning about engineering, creating CAD designs, making 3D art in Blender, and exploring the world of programming.
 
 ## 🧰 Skills & Tools
 - **Game Development:** Godot, learning Unity
