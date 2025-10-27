@@ -7,10 +7,11 @@ Welcome to my GitHub! I love building games in Godot, creating 3D art in Blender
 - **Game Development:** Godot, learning Unity
 - **3D Modeling:** Blender
 - **Programming:** Java (proficient), Python & C++ (currently learning)
-- **Design:** Decent eye for design and UI/UX
+- **Design:** Decent eye for design and UI/UX, learning CAD
+- **Motorsport:** Learning mechanical engineering, motorsport/vehicle engineering, and CAD design
 
 ## 🚀 About Me
-I'm passionate about making games and bringing ideas to life whether it's through code or art. I'm always looking to improve and learn new things, especially in game dev and 3D graphics.
+I'm passionate about bringing ideas to life whether it's through code or art. I'm always looking to improve and learn new things, especially in the world of 3D design and motorsport.
 
 ## 🌐 Find Me Online
 - **Portfolio:** [mynamestim.tech](https://mynamestim.tech)
